@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-vpmd6v.mahirarin.com.tr/sitemap.xml
